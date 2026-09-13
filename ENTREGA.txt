@@ -2,13 +2,13 @@
 
 ## Datos del participante
 
-- Nombre y apellido:
-- Curso:
-- Fecha de entrega:
+- Nombre y apellido: Julieta Agustina Yapura
+- Curso: Introducción a Git y Github - Nodo Tecnológico
+- Fecha de entrega: 13/09/2026
 
 ## Enlaces
 
-- Repositorio de GitHub:
+- Repositorio de GitHub: https://github.com/julietaagustina-coder/tp-integrador-git-yapura-julieta.git
 - Issue:
 - Pull request:
 
@@ -35,7 +35,7 @@ Explicar en 5 a 8 líneas cómo se creó, versionó, publicó y documentó el pr
 
 ## Dificultades encontradas
 
-Indicar si apareció algún error, dificultad o conflicto. Explicar brevemente cómo se resolvió.
+Ubicación en ramas correctas 
 
 ## Reflexión final
 
